@@ -11,21 +11,18 @@
   </a>
 </div>
 
-
-<!--
-**szheng3/szheng3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**About me** i
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Professional full stack developer. 
+- 🌱 Expert in AI/ML/DL.
+- 🤔 AI master in Duke.
+- 💬 Working on investment banking for quantitative investment.
+- 📫 How to reach me: szheng3@outlook.com
+
+
+
 
 
 
