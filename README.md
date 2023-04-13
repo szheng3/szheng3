@@ -11,7 +11,7 @@
   </a>
 </div>
 
-**About me** i
+**About me**
 
 Here are some ideas to get you started:
 
