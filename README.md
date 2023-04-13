@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 Expert in AI/ML/DL.
 - 🤔 AI master in Duke.
 - 💬 Working on investment banking for quantitative investment.
-- 📫 How to reach me: szheng3@outlook.com
+- 📫 How to reach me: szheng3@outlook.com.
 
 
 
