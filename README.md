@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🔭 Professional full stack developer. 
 - 🌱 Expert in ML.
 - 🤔 AI master in Duke.
-- 💬 Working on investment banking for quantitative investment.
+- 💬 Working on top investment banking for quantitative investment.
 - 📫 How to reach me: szheng3@outlook.com.
 
 
