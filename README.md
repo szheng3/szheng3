@@ -1,14 +1,14 @@
 ### Hi there 👋  My name is Shuai Zheng~
-<div id="resumes">
+<!-- <div id="resumes">
   <a href="https://sszzz.me">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="website Badge"/>
   </a>
-</div>
+</div> -->
 
 
 **About me**
 
-Here are some ideas to get you started:
+My website https://sszzz.me:
 
 - 🔭 Professional full stack developer. 
 - 🌱 Expert in ML.
