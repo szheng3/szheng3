@@ -11,7 +11,7 @@
 - 😄 My website: https://sszzz.me
 - 🔭 Professional full stack developer. 
 - 🌱 Expert in ML.
-- 🤔 AI master in Duke.
+- 🤔 AI master @ Duke.
 - 💬 Working on top investment banking for quantitative investment.
 - 📫 How to reach me: szheng3@outlook.com.
 
