@@ -9,7 +9,7 @@
 **About me**
 
 - 😄 My website: [https://szheng3.github.io](https://szheng3.github.io)
-- 🔭 Professional full stack developer. 
+- 🔭 Professional software developer. 
 - 🌱 Expert in ML.
 - 🤔 AI master @ Duke.
 - 💬 Working on top investment banking for quantitative investment.
