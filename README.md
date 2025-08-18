@@ -8,7 +8,7 @@
 
 **About me**
 
-- 😄 My website: [https://szheng3.github.io](https://szheng3.github.io)
+- 😄 My website: [https://www.sszzz.me](https://www.sszzz.me)
 - 🔭 Professional software developer. 
 - 🌱 Expert in ML.
 - 🤔 AI master @ Duke.
