@@ -24,7 +24,7 @@ Hi there! I'm **szheng3**, a software developer working at the intersection of *
 
 <!-- Fixed widths keep the cards side by side on desktop and allow them to wrap on smaller screens. -->
 <p align="center">
-  <a href="https://github.com/szheng3?tab=repositories"><img width="400" src="https://github-readme-stats.vercel.app/api?username=szheng3&amp;show_icons=true&amp;locale=en&amp;include_all_commits=true&amp;card_width=495&amp;bg_color=0B1624&amp;title_color=7CE3CC&amp;text_color=C9D8E6&amp;icon_color=E8BB73&amp;border_color=20364B&amp;border_radius=16&amp;disable_animations=true" alt="szheng3's GitHub statistics: stars, commits, pull requests, issues, and contributions" /></a>
+  <a href="https://github.com/szheng3?tab=repositories"><img width="400" src="https://github-stats-extended.vercel.app/api?username=szheng3&amp;show_icons=true&amp;locale=en&amp;include_all_commits=true&amp;card_width=495&amp;bg_color=0B1624&amp;title_color=7CE3CC&amp;text_color=C9D8E6&amp;icon_color=E8BB73&amp;border_color=20364B&amp;border_radius=16&amp;disable_animations=true" alt="szheng3's GitHub statistics: stars, commits, pull requests, issues, and contributions" /></a>
   <a href="https://github.com/szheng3?tab=overview"><img width="400" src="https://streak-stats.demolab.com/?user=szheng3&amp;background=0B1624&amp;border=20364B&amp;stroke=20364B&amp;ring=7CE3CC&amp;fire=E8BB73&amp;currStreakNum=F1F5F9&amp;sideNums=F1F5F9&amp;currStreakLabel=7CE3CC&amp;sideLabels=C9D8E6&amp;dates=91A5B8&amp;border_radius=16&amp;card_width=495&amp;disable_animations=true" alt="szheng3's total contributions, current contribution streak, and longest contribution streak" /></a>
 </p>
 
