@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="390" viewBox="0 0 680 390" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">szheng3 — Software, intelligence, markets</title>
+  <desc id="desc">A compact midnight blue personal banner with mint typography and an amber accent.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="680" y2="390" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1624"/><stop offset="1" stop-color="#102B39"/></linearGradient>
+    <clipPath id="clip"><rect width="680" height="390" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="680" height="390" fill="url(#bg)"/>
+    <g stroke="#7CE3CC"><circle cx="675" cy="184" r="171" stroke-opacity="0.12"/><circle cx="675" cy="184" r="121" stroke-opacity="0.15"/><circle cx="675" cy="184" r="71" stroke-opacity="0.18"/></g>
+    <circle cx="570" cy="258" r="5" fill="#E8BB73"/>
+    <path d="M44 58H70" stroke="#7CE3CC" stroke-width="3" stroke-linecap="round"/>
+    <text x="84" y="63" fill="#91A5B8" font-family="'Courier New', monospace" font-size="14" letter-spacing="1.5">SOFTWARE / AI / QUANT</text>
+    <text x="38" y="181" fill="#F1F5F9" font-family="Georgia, 'Times New Roman', serif" font-size="104" letter-spacing="-4">szheng3<tspan fill="#7CE3CC">.</tspan></text>
+    <text x="44" y="238" fill="#C9D8E6" font-family="Verdana, sans-serif" font-size="23">Engineering at the intersection</text>
+    <text x="44" y="274" fill="#C9D8E6" font-family="Verdana, sans-serif" font-size="23">of intelligence and markets.</text>
+    <path d="M44 327H636" stroke="#7CE3CC" stroke-opacity="0.16"/>
+    <text x="44" y="359" fill="#91A5B8" font-family="'Courier New', monospace" font-size="14" letter-spacing="1.5">MACHINE LEARNING · FINANCE</text>
+    <text x="636" y="359" text-anchor="end" fill="#7CE3CC" font-family="'Courier New', monospace" font-size="14" letter-spacing="1.5">SSZZZ.ME ↗</text>
+  </g>
+</svg>
