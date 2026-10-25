@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="166" height="28" viewBox="0 0 166 28" role="img" aria-labelledby="title">
   <title id="title">Email Shuai — Let's connect</title>
   <style>
-    .label { fill: #E5EEE9; }
-    .main { fill: #246B5B; }
-    .label-text { fill: #38584A; }
-    .edge { stroke: #C9DDD2; }
+    .label { fill: #E8EFFB; }
+    .main { fill: #2E63A8; }
+    .label-text { fill: #3B5F8D; }
+    .edge { stroke: #CADAF0; }
     @media (prefers-color-scheme: dark) {
-      .label { fill: #142638; }
-      .main { fill: #276B61; }
-      .label-text { fill: #D6E8E2; }
-      .edge { stroke: #31544C; }
+      .label { fill: #14263F; }
+      .main { fill: #315F9D; }
+      .label-text { fill: #D9E8FF; }
+      .edge { stroke: #3B5D8A; }
     }
   </style>
   <defs><clipPath id="badge"><rect width="166" height="28" rx="4"/></clipPath></defs>
@@ -18,7 +18,7 @@
     <rect width="50" height="28" class="label"/>
     <path d="M50 0V28" class="edge"/>
     <text x="25" y="17.5" text-anchor="middle" class="label-text" font-family="Verdana, sans-serif" font-size="9.4" letter-spacing="1">EMAIL</text>
-    <text x="108" y="17.5" text-anchor="middle" fill="#F7FFFB" font-family="Verdana, sans-serif" font-size="9.4" font-weight="600" letter-spacing="0.65">LET'S CONNECT</text>
+    <text x="108" y="17.5" text-anchor="middle" fill="#F7FBFF" font-family="Verdana, sans-serif" font-size="9.4" font-weight="600" letter-spacing="0.65">LET'S CONNECT</text>
     <rect x="0.5" y="0.5" width="165" height="27" rx="3.5" fill="none" class="edge"/>
   </g>
 </svg>
