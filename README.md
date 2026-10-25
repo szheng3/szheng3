@@ -1,16 +1,20 @@
 <!-- GitHub theme fragments follow the reader's GitHub theme, including manually selected themes. -->
 <p align="center">
-  <picture>
-    <source media="(max-width: 640px)" srcset="./assets/shuai-header-mobile-light.svg#gh-light-mode-only" />
-    <img src="./assets/shuai-header-light.svg#gh-light-mode-only" width="100%" alt="Shuai — Software engineering, machine learning, and quantitative finance" />
-  </picture>
-  <picture>
-    <source media="(max-width: 640px)" srcset="./assets/shuai-header-mobile.svg#gh-dark-mode-only" />
-    <img src="./assets/shuai-header.svg#gh-dark-mode-only" width="100%" alt="Shuai — Software engineering, machine learning, and quantitative finance" />
-  </picture>
+  <a href="https://github.com/szheng3#gh-light-mode-only">
+    <picture>
+      <source media="(max-width: 640px)" srcset="./assets/shuai-header-mobile-light.svg#gh-light-mode-only" />
+      <img src="./assets/shuai-header-light.svg#gh-light-mode-only" width="100%" alt="Shuai — Software engineering, machine learning, and quantitative finance" />
+    </picture>
+  </a>
+  <a href="https://github.com/szheng3#gh-dark-mode-only">
+    <picture>
+      <source media="(max-width: 640px)" srcset="./assets/shuai-header-mobile.svg#gh-dark-mode-only" />
+      <img src="./assets/shuai-header.svg#gh-dark-mode-only" width="100%" alt="Shuai — Software engineering, machine learning, and quantitative finance" />
+    </picture>
+  </a>
 </p>
 
-### A little about me <a href="mailto:szheng3@outlook.com"><img align="right" height="24" src="./assets/contact-light.svg#gh-light-mode-only" alt="Email Shuai" /><img align="right" height="24" src="./assets/contact-dark.svg#gh-dark-mode-only" alt="Email Shuai" /></a>
+### A little about me <a href="mailto:szheng3@outlook.com"><img align="right" height="24" src="./assets/contact.svg" alt="Email Shuai" /></a>
 
 Hi there! I'm **Shuai**, a software developer working at the intersection of **machine learning** and **quantitative investment**.
 
