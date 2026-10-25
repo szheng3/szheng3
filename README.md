@@ -14,9 +14,9 @@ Hi there! I'm **Shuai**, a software developer working at the intersection of **m
 - **Markets** · Working on quantitative investment at a leading investment bank.
 
 <p align="left">
-  <a href="mailto:szheng3@outlook.com"><img src="https://img.shields.io/badge/Email-Let%E2%80%99s%20connect-276B61?style=for-the-badge&amp;labelColor=142638" alt="Email Shuai" /></a>
+  <a href="mailto:szheng3@outlook.com"><img src="https://img.shields.io/badge/Email-Let%E2%80%99s%20connect-276B61?style=for-the-badge&amp;labelColor=142638" alt="Email Shuai" align="middle" /></a>
   &nbsp;
-  <a href="mailto:szheng3@outlook.com"><sub>szheng3@outlook.com</sub></a>
+  <a href="mailto:szheng3@outlook.com">szheng3@outlook.com</a>
 </p>
 
 ### On GitHub
