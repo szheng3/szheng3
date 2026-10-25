@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Shuai — Software, intelligence, markets</title>
+  <desc id="desc">A soft ivory and sage banner with forest green and warm gold connections representing software, machine learning, and quantitative finance.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#F7F9F5"/><stop offset="1" stop-color="#E3EFEB"/></linearGradient>
+    <linearGradient id="signal" x1="695" y1="250" x2="1140" y2="100" gradientUnits="userSpaceOnUse"><stop stop-color="#237D68" stop-opacity="0"/><stop offset="0.35" stop-color="#237D68" stop-opacity="0.65"/><stop offset="1" stop-color="#237D68"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#237D68" fill-opacity="0.12"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="360" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect x="650" width="550" height="360" fill="url(#grid)"/>
+    <g stroke="#237D68"><circle cx="1012" cy="166" r="229" stroke-opacity="0.08"/><circle cx="1012" cy="166" r="181" stroke-opacity="0.12"/><circle cx="1012" cy="166" r="128" stroke-opacity="0.18"/></g>
+    <path d="M700 290H1150M700 226H1150M700 162H1150M700 98H1150" stroke="#237D68" stroke-opacity="0.06"/>
+    <path d="M702 272C748 272 748 225 793 225S838 258 879 205S925 217 960 164S1017 183 1042 126S1091 157 1148 71" stroke="url(#signal)" stroke-width="2.5" stroke-linecap="round"/>
+    <g stroke="#237D68" stroke-opacity="0.32" stroke-width="1.5"><path d="M837 103L926 74L1012 166L1094 108L1132 215L1038 267L1012 166L908 239L837 103Z"/><path d="M837 103L1012 166M926 74L1094 108M908 239L1038 267M1132 215L1012 166"/></g>
+    <g fill="#F5F9F6" stroke="#237D68" stroke-width="2"><circle cx="837" cy="103" r="7"/><circle cx="926" cy="74" r="5"/><circle cx="1094" cy="108" r="7"/><circle cx="1132" cy="215" r="5"/><circle cx="1038" cy="267" r="7"/><circle cx="908" cy="239" r="5"/></g>
+    <circle cx="1012" cy="166" r="24" fill="#AC7834" fill-opacity="0.08"/><circle cx="1012" cy="166" r="13" fill="#AC7834" fill-opacity="0.16"/><circle cx="1012" cy="166" r="5" fill="#AC7834"/>
+    <path d="M56 59H84" stroke="#237D68" stroke-width="3" stroke-linecap="round"/>
+    <text x="98" y="64" fill="#5D756B" font-family="'Courier New', monospace" font-size="13" letter-spacing="3">SOFTWARE / INTELLIGENCE / MARKETS</text>
+    <text x="52" y="181" fill="#183E34" font-family="Georgia, 'Times New Roman', serif" font-size="104" letter-spacing="-4">Shuai<tspan fill="#237D68">.</tspan></text>
+    <text x="58" y="229" fill="#49645B" font-family="Verdana, sans-serif" font-size="20">Engineering at the intersection</text>
+    <text x="58" y="260" fill="#49645B" font-family="Verdana, sans-serif" font-size="20">of intelligence and markets.</text>
+    <path d="M58 308H1142" stroke="#237D68" stroke-opacity="0.16"/>
+    <text x="58" y="335" fill="#5D756B" font-family="'Courier New', monospace" font-size="12" letter-spacing="1.5">MACHINE LEARNING · QUANTITATIVE FINANCE</text>
+    <rect x="0.5" y="0.5" width="1199" height="359" rx="23.5" stroke="#D4E3DB"/>
+  </g>
+</svg>
