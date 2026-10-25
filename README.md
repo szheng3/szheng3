@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="./assets/profile-header-mobile.svg" />
-    <img src="./assets/profile-header.svg" width="100%" alt="Shuai — Software engineering, machine learning, and quantitative finance" />
+    <source media="(max-width: 640px)" srcset="./assets/profile-header-mobile.svg?v=shuai" />
+    <img src="./assets/profile-header.svg?v=shuai" width="100%" alt="Shuai — Software engineering, machine learning, and quantitative finance" />
   </picture>
 </p>
 
