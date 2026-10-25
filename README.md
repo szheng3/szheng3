@@ -1,13 +1,11 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 640px)" srcset="./assets/profile-header-mobile.svg?v=shuai" />
-    <img src="./assets/profile-header.svg?v=shuai" width="100%" alt="Shuai — Software engineering, machine learning, and quantitative finance" />
+    <source media="(max-width: 640px)" srcset="./assets/shuai-header-mobile.svg" />
+    <img src="./assets/shuai-header.svg" width="100%" alt="Shuai — Software engineering, machine learning, and quantitative finance" />
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://www.sszzz.me"><img src="https://img.shields.io/badge/Portfolio-sszzz.me-276B61?style=for-the-badge&amp;labelColor=142638" alt="Visit my portfolio at sszzz.me" /></a>
-  &nbsp;
   <a href="mailto:szheng3@outlook.com"><img src="https://img.shields.io/badge/Email-Let%E2%80%99s%20connect-805B2D?style=for-the-badge&amp;labelColor=142638" alt="Email szheng3@outlook.com" /></a>
 </p>
 
@@ -18,7 +16,7 @@ Hi there! I'm **Shuai**, a software developer working at the intersection of **m
 - **Engineering** · Professional software developer with expertise in ML.
 - **Learning** · AI master's @ Duke University.
 - **Markets** · Working on quantitative investment at a leading investment bank.
-- **Elsewhere** · [www.sszzz.me](https://www.sszzz.me) · [szheng3@outlook.com](mailto:szheng3@outlook.com)
+- **Contact** · [szheng3@outlook.com](mailto:szheng3@outlook.com)
 
 ### On GitHub
 
